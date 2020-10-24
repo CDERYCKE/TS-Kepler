@@ -1,3 +1,3 @@
 Jupyter Notebooks pour la spécilaité physique en Terminale
 
-partie mécanique
+partie mécanique : Lois de Kepler
